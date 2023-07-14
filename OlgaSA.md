@@ -44,7 +44,7 @@ The repository can be: local (located directly in the memory of the developer's 
 * **git remote add *<remote_name> <remote_url>*** - добавление нового удалённого репозитория.
 * **git remote remove *<remote_name>*** - удаление удалённого репозитория.
 ## How do I set up collaboration?
-1. Create an account on GitHub.com .
+1. Create an account on GitHub.com.
 2. Create a local repository.
 3. “Make friends” with your local and remote repositories. 
 When creating a new repository, GitHub will tell you how to do it.
